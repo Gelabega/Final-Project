@@ -1,0 +1,19 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+:root{
+    --main-zero-margin:0;
+    --main-width-header:100%;
+    --main-height-header:90px;
+    --main-title-font:25px;
+    --main-text-font:15px;
+    --main-border-radius:15px;
+    --main-text-color:rgb(0, 0, 0);
+    --main-font-style:'Play', sans-serif;
+    --main-height-section-1:300px;
+    --main-box-shadow:rgb(7, 7, 7) 10px 10px 5px;
+}
